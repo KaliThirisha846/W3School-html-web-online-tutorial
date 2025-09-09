@@ -1,0 +1,3 @@
+#W3School  web online tutorial
+This project is an HTML & CSS Online Web Tutorial created to provide a simple and clean learning platform for beginners. The tutorial covers the fundamental concepts of HTML such as headings, paragraphs, images, links, tables, and forms, along with CSS styling for layout and design.
+It demonstrates how to structure a web page and apply basic styles like colors, fonts, margins, and alignments to make the content visually appealing. Since the project is built only with HTML and CSS, it is lightweight, easy to understand, and ideal for learners who are starting with front-end web development.
